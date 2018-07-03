@@ -1,0 +1,58 @@
+1、面向对象基本特征
+2、冒泡排序，选择排序，插入排序
+3、递归算法
+4、java的重载与重写
+5、线程是什么，线程与进程区别，多线程怎么实现，
+6、文件的读写，xml文件读写
+7、常用的字符操作方法有哪些
+8、List、Set、map区别
+9、ArrayList、LinkedList、Vertor区别
+10、HashMap、HashSet、HashTable区别
+11、Servlet生命周期
+12、JSP内置对象
+13、Struts2工作原理
+14、hibernate工作原理
+15、spring介绍，（各个模块介绍）
+16、字符集UTF-8、GBK、GB2312、ISO-8859-1有什么区别
+17、两个大数字字符串相加（相乘，相除，相减）怎么操作
+18、外连接与内连接的区别
+19、常见数据库连接字符串，分页（mysql、oracle、sql server）
+20、union、union all区别
+21、sql聚合函数的用法
+22、oracle的序列
+23、sql存储过程
+24、sql联合查询
+26、jdk、jvm、jre区别
+27、String str=”abc”与String str = new String(“abc”);区别
+28、String与stringBuffer、StringBulider区别
+29、final、finally、finalize的区别
+30、java中引用传递与值传递的区别
+31、javaBean是什么
+32、什么是mvc模式，为什么用
+34、什么是枚举，以及枚举的用法
+35、jQuery有哪些选择器，及与CSS选择器有什么异同
+36、java.util.Date与java.sql.Date的区别
+37、JSP、Servlet、JAVA的区别
+38、spring mvc的工作原理或者机制
+39、浏览器兼容性怎么解决
+40、什么是webServices
+41、静态INCLUDE与动态INCLUDE区别
+42、Struts2与Spring MVC区别
+43、什么是java匿名内部类，有什么作用
+44、http、https、ftp、svn、等协议有什么不同
+45、Ajax是什么，工作机制
+46、什么是数据库连接池
+47、什么是服务器，服务器与应用服务器的区别
+48、JSP运行原理
+49、BS与CS的概念，区别？
+50、J2EE体系介绍
+55、java反射机制
+
+名词释义：
+JVM、JDK、JRE、J2EE、J2SE、mvc、aop、ioc、JNDI、OGNL、JDBC、
+B2C、C2C、B2B、ERP、CMS、OA、BPM、GIS
+
+
+56、自我介绍(200字)
+57、自我评价(200字)
+
